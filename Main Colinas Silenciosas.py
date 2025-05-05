@@ -17,6 +17,7 @@ pygame.init()
 pygame.mixer.init()
 
 #Portada del juego
+#Comentario de Emilia: Hola :D
 
 print(Fore.GREEN + '''
 
